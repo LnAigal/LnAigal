@@ -46,9 +46,9 @@ motto      : "Always Learning. Always Building."
 
 > **🔐 Real-time browser extension to detect dark patterns & DPDP Act violations**
 
-[![ConsumerShield](https://img.shields.io/badge/ConsumerShield-Chrome%20Extension-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://github.com/lnaigal)
-[![Gemini API](https://img.shields.io/badge/Gemini%20API-AI%20Powered-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)](https://github.com/lnaigal)
-[![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia%20Testnet-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117)](https://github.com/lnaigal)
+![ConsumerShield](https://img.shields.io/badge/ConsumerShield-Chrome%20Extension-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-AI%20Powered-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
+![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia%20Testnet-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -159,9 +159,9 @@ motto      : "Always Learning. Always Building."
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lnaigal/lnaigal/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lnaigal/lnaigal/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://github.com/lnaigal/lnaigal/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lnaigal/lnaigal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lnaigal/lnaigal/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/lnaigal/lnaigal/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -190,9 +190,9 @@ motto      : "Always Learning. Always Building."
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshminarayana-aigal)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshwebsitedev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=github&logoColor=black)](https://lnaigal.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshminarayanaigal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=github&logoColor=black)](https://lnaigal.github.io/Laksh-Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ln_Aigal)
 
 </div>
 
