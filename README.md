@@ -138,7 +138,7 @@ motto      : "Always Learning. Always Building."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lnaigal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888" />
+<img src="https://streak-stats.demolab.com/?user=lnaigal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888" />
 
 </div>
 
