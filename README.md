@@ -148,7 +148,7 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff6b35&area=true&area_color=00f7ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff6b35&area=true&area_color=00f7ff&count_private=true" />
 
 </div>
 
