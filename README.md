@@ -138,7 +138,7 @@ motto      : "Always Learning. Always Building."
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight-phi.vercel.app/?user=lnaigal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&count_private=true" />
+<img src="assets/streak-stats.svg" />
 
 </div>
 
@@ -148,7 +148,7 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff6b35&area=true&area_color=00f7ff&count_private=true" />
+<img src="assets/activity-graph.svg" />
 
 </div>
 
