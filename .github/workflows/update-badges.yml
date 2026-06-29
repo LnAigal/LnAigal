@@ -13,11 +13,13 @@ jobs:
 
       - name: Download Streak Stats
         run: |
-          curl -s "https://github-readme-streak-stats-eight-phi.vercel.app/?user=lnaigal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&count_private=true&token=${{ secrets.GH_TOKEN }}" > assets/streak-stats.svg
+          mkdir -p assets
+          curl -s -f "https://github-readme-streak-stats-eight-phi.vercel.app/?user=lnaigal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&count_private=true&token=${{ secrets.GH_TOKEN }}" > assets/streak-stats.svg
 
       - name: Download Activity Graph
         run: |
-          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff6b35&area=true&area_color=00f7ff&count_private=true" > assets/activity-graph.svg
+          mkdir -p assets
+          curl -s -f "https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff6b35&area=true&area_color=00f7ff&count_private=true" > assets/activity-graph.svg
 
       - name: Commit and Push
         run: |
