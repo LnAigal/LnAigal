@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=🤖+AI+%26+ML+Student+%40+NMAMIT;🏆+Hack+Nocturne+2.0+Winner;🔐+Cybersecurity+%26+Privacy+Tech+Builder;⚡+Turning+ideas+into+impactful+products;🚀+Open+to+Collaborate+%26+Hack+Together" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%A4%96+AI+%26+ML+Student+%40+NMAMIT;%F0%9F%8F%86+Hack+Nocturne+2.0+Winner;%F0%9F%94%90+Cybersecurity+%26+Privacy+Tech+Builder;%E2%9A%A1+Turning+ideas+into+impactful+products;%F0%9F%9A%80+Open+to+Collaborate+%26+Hack+Together" />
 </a>
 
 <br/>
@@ -138,7 +138,7 @@ motto      : "Always Learning. Always Building."
 
 <br/>
 
-<img src="assets/streak-stats.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lnaigal&theme=tokyonight&hide_border=true&bg_color=0d1117&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=ffffff" />
 
 </div>
 
@@ -148,7 +148,7 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-<img src="assets/activity-graph.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
