@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1f3c,100:00f7ff&height=250&section=header&text=Lakshminarayana%20Aigal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20AI%20%26%20Security&descSize=16&descAlignY=58&descColor=00f7ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,50:0d1f3c,100:00f7ff&amp;height=250&amp;section=header&amp;text=Lakshminarayana%20Aigal&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Building%20at%20the%20edge%20of%20AI%20%26%20Security&amp;descSize=16&amp;descAlignY=58&amp;descColor=00f7ff" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%A4%96+AI+%26+ML+Student+%40+NMAMIT;%F0%9F%8F%86+Hack+Nocturne+2.0+Winner;%F0%9F%94%90+Cybersecurity+%26+Privacy+Tech+Builder;%E2%9A%A1+Turning+ideas+into+impactful+products;%F0%9F%9A%80+Open+to+Collaborate+%26+Hack+Together" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=650&amp;lines=%F0%9F%A4%96+AI+%26+ML+Student+%40+NMAMIT;%F0%9F%8F%86+Hack+Nocturne+2.0+Winner;%F0%9F%94%90+Cybersecurity+%26+Privacy+Tech+Builder;%E2%9A%A1+Turning+ideas+into+impactful+products;%F0%9F%9A%80+Open+to+Collaborate+%26+Hack+Together" />
 </a>
 
 <br/>
 
 <!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=lnaigal&label=Profile+Views&color=00f7ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=lnaigal&amp;label=Profile+Views&amp;color=00f7ff&amp;style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/lnaigal?label=Followers&style=flat-square&color=00f7ff&labelColor=0d1117" />
 &nbsp;
@@ -206,6 +206,6 @@ motto      : "Always Learning. Always Building."
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0d1f3c,100:0a0a0f&height=120&section=footer&text=Always%20Learning.%20Always%20Building.&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f7ff,50:0d1f3c,100:0a0a0f&amp;height=120&amp;section=footer&amp;text=Always%20Learning.%20Always%20Building.&amp;fontSize=16&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=65" />
 
 </div>
