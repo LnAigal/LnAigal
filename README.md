@@ -13,11 +13,11 @@
 <!-- PROFILE BADGES -->
 <img src="https://komarev.com/ghpvc/?username=lnaigal&amp;label=Profile+Views&amp;color=00f7ff&amp;style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/lnaigal?label=Followers&style=flat-square&color=00f7ff&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/lnaigal?label=Followers&amp;style=flat-square&amp;color=00f7ff&amp;labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square&color=00ff88&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square&amp;color=00ff88&amp;labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Hackathon-Active-orange?style=flat-square&color=ff6b35&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Hackathon-Active-orange?style=flat-square&amp;color=ff6b35&amp;labelColor=0d1117" />
 
 </div>
 
@@ -190,7 +190,7 @@ motto      : "Always Learning. Always Building."
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshminarayana-aigal)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshminarayanaigal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshminarayanaigal@duck.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=github&logoColor=black)](https://lnaigal.github.io/Laksh-Portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ln_Aigal)
 
