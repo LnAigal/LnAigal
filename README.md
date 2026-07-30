@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,50:0d1f3c,100:00f7ff&amp;height=250&amp;section=header&amp;text=Lakshminarayana%20Aigal&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Building%20at%20the%20edge%20of%20AI%20%26%20Security&amp;descSize=16&amp;descAlignY=58&amp;descColor=00f7ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0f,50:0d1f3c,100:00f7ff&amp;height=250&amp;section=header&amp;text=Lakshminarayana%20Aigal&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Building%20at%20the%20edge%20of%20AI%20and%20Security&amp;descSize=16&amp;descAlignY=58&amp;descColor=00f7ff" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -29,11 +29,14 @@
 name       : Lakshminarayana Aigal
 alias      : Laksh
 location   : Karnataka, India
-education  : B.E. AI & ML — NMAMIT, Nitte (2024–2028)
+education  : B.Tech AI ML — NMAMIT, Nitte (2024–2028)
 focus      : Browser Security · Privacy Tech · Full Stack Development
 trophies   :
-  - 🥇 Hack Nocturne 2.0 Winner — SMVIT Bangalore (ConsumerShield)
-  - 🥉 3rd Place — SMVIT Hackathon (ConsumerShield)
+  - 🥇 USAII® Global AI Hackathon 2026 — Finalist, Rank #1 College Track Qualifier (100/100) — Projects: TraceZero, YojanaPath
+  - 🥉 Hack Nocturne 2.0 — SMVIT, Bengaluru — 3rd Prize — Consumer Shield
+  - 🥉 Matrix Fusion 4.0 — YIT, Moodbidri — 3rd Place — AgriVision
+  - 🥈 HackXpo S03 — NMAMIT — First Runner-Up
+  - 🏆 Ctrl+Alt Code — First Place
 currently  : Building impactful developer tools & privacy tech
 motto      : "Always Learning. Always Building."
 ```
@@ -44,7 +47,7 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-> **🔐 Real-time browser extension to detect dark patterns & DPDP Act violations**
+> **🔐 Real-time browser extension to detect dark patterns &amp; DPDP Act violations**
 
 ![ConsumerShield](https://img.shields.io/badge/ConsumerShield-Chrome%20Extension-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-AI%20Powered-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
@@ -132,13 +135,13 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnaigal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnaigal&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117&amp;title_color=00f7ff&amp;icon_color=00f7ff&amp;text_color=ffffff" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnaigal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnaigal&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00f7ff&amp;text_color=ffffff&amp;langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lnaigal&theme=tokyonight&hide_border=true&bg_color=0d1117&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lnaigal&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;stroke=00f7ff&amp;ring=00f7ff&amp;fire=00f7ff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00f7ff&amp;sideLabels=ffffff&amp;dates=ffffff" />
 
 </div>
 
@@ -148,7 +151,7 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&amp;bg_color=0d1117&amp;color=00f7ff&amp;line=00f7ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" />
 
 </div>
 
@@ -170,18 +173,14 @@ motto      : "Always Learning. Always Building."
 
 ## 🏆 Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lnaigal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 | 🏅 Achievement | Details |
 |---|---|
-| 🥇 **Hack Nocturne 2.0 Winner** | SMVIT Bangalore — ConsumerShield (Privacy Tech Extension) |
-| 🥉 **3rd Place — SMVIT Hackathon** | National-level hackathon — ConsumerShield |
-| 🔐 **DPDP Act Implementation** | First student project mapping Chrome extension to India's Data Protection law |
-| ⛓️ **Blockchain + AI Integration** | Built full stack: Gemini AI + Solidity smart contracts + FastAPI |
+| 🥇 **USAII® Global AI Hackathon 2026** | Finalist · Rank #1 College Track Qualifier (100/100) · TraceZero / YojanaPath |
+| 🥉 **Hack Nocturne 2.0 — SMVIT, Bengaluru** | 3rd Prize — Consumer Shield |
+| 🥉 **Matrix Fusion 4.0 — YIT, Moodbidri** | 3rd Place — AgriVision |
+| 🥈 **HackXpo S03 — NMAMIT** | First Runner-Up |
+| 🏆 **Ctrl+Alt Code** | First Place |
 
 ---
 
