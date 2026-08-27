@@ -49,9 +49,9 @@ motto      : "Always Learning. Always Building."
 
 > **🔐 Real-time browser extension to detect dark patterns &amp; DPDP Act violations**
 
-![ConsumerShield](https://img.shields.io/badge/ConsumerShield-Chrome%20Extension-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-AI%20Powered-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
-![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia%20Testnet-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117)
+![ConsumerShield](https://img.shields.io/badge/ConsumerShield-Chrome%20Extension-00f7ff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=0d1117)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-AI%20Powered-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white&amp;labelColor=0d1117)
+![Ethereum](https://img.shields.io/badge/Ethereum-Sepolia%20Testnet-627EEA?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white&amp;labelColor=0d1117)
 
 </div>
 
@@ -97,35 +97,35 @@ motto      : "Always Learning. Always Building."
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
 
 **Frameworks & Platforms**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white)
 
 **AI & APIs**
 
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&amp;logo=huggingface&amp;logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white)
 
 </div>
 
@@ -141,7 +141,7 @@ motto      : "Always Learning. Always Building."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lnaigal&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;stroke=00f7ff&amp;ring=00f7ff&amp;fire=00f7ff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;currStreakLabel=00f7ff&amp;sideLabels=ffffff&amp;dates=ffffff" />
+<img src="assets/streak-stats.svg" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -151,7 +151,7 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&amp;bg_color=0d1117&amp;color=00f7ff&amp;line=00f7ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" />
+<img src="assets/activity-graph.svg" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
@@ -188,10 +188,10 @@ motto      : "Always Learning. Always Building."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshminarayana-aigal)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshminarayanaigal@duck.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&logo=github&logoColor=black)](https://lnaigal.github.io/Laksh-Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ln_Aigal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/lakshminarayana-aigal)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:lakshminarayanaigal@duck.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f7ff?style=for-the-badge&amp;logo=github&amp;logoColor=black)](https://lnaigal.github.io/Laksh-Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://instagram.com/Ln_Aigal)
 
 </div>
 

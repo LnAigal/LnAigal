@@ -17,8 +17,8 @@ jobs:
       - name: Download Stats
         run: |
           mkdir -p assets
-          curl -s -f "https://github-readme-streak-stats-eight-phi.vercel.app/?user=lnaigal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&count_private=true" > assets/streak-stats.svg
-          curl -s -f "https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff6b35&area=true&area_color=00f7ff&count_private=true" > assets/activity-graph.svg
+          curl -s -f "https://github-readme-streak-stats-eight-phi.vercel.app/?user=lnaigal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=ffffff&count_private=true" > assets/streak-stats.svg
+          curl -s -f "https://github-readme-activity-graph.vercel.app/graph?username=lnaigal&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=00f7ff&area=true&area_color=00f7ff&count_private=true" > assets/activity-graph.svg
 
       - name: Commit and Push
         run: |
