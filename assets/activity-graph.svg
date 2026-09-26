@@ -50,14 +50,14 @@ svg { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; user-select: none; }
 <line x1="90.0" x2="1150.0" y1="80.00" y2="80.00" class="ct-grid"/>
 </g>
 <g class="ct-series ct-series-a">
-<path class="ct-area" d="M90.00,344.60 L125.33,339.20 L160.67,344.60 L196.00,344.60 L231.33,344.60 L266.67,317.60 L302.00,344.60 L337.33,344.60 L372.67,344.60 L408.00,344.60 L443.33,344.60 L478.67,344.60 L514.00,344.60 L549.33,344.60 L584.67,333.80 L620.00,285.20 L655.33,166.40 L690.67,112.40 L726.00,231.20 L761.33,274.40 L796.67,182.60 L832.00,339.20 L867.33,317.60 L902.67,328.40 L938.00,344.60 L973.33,344.60 L1008.67,344.60 L1044.00,333.80 L1079.33,339.20 L1114.67,296.00 L1150.00,350.00 L1150.00,350.00 L90.00,350.00 Z"/>
-<path class="ct-line" d="M90.00,344.60 L125.33,339.20 L160.67,344.60 L196.00,344.60 L231.33,344.60 L266.67,317.60 L302.00,344.60 L337.33,344.60 L372.67,344.60 L408.00,344.60 L443.33,344.60 L478.67,344.60 L514.00,344.60 L549.33,344.60 L584.67,333.80 L620.00,285.20 L655.33,166.40 L690.67,112.40 L726.00,231.20 L761.33,274.40 L796.67,182.60 L832.00,339.20 L867.33,317.60 L902.67,328.40 L938.00,344.60 L973.33,344.60 L1008.67,344.60 L1044.00,333.80 L1079.33,339.20 L1114.67,296.00 L1150.00,350.00"/>
-<circle cx="90.00" cy="344.60" r="5" class="ct-point"/>
-<circle cx="125.33" cy="339.20" r="5" class="ct-point"/>
+<path class="ct-area" d="M90.00,339.20 L125.33,344.60 L160.67,344.60 L196.00,344.60 L231.33,317.60 L266.67,344.60 L302.00,344.60 L337.33,344.60 L372.67,344.60 L408.00,344.60 L443.33,344.60 L478.67,344.60 L514.00,344.60 L549.33,333.80 L584.67,285.20 L620.00,166.40 L655.33,112.40 L690.67,231.20 L726.00,274.40 L761.33,182.60 L796.67,339.20 L832.00,317.60 L867.33,328.40 L902.67,344.60 L938.00,344.60 L973.33,344.60 L1008.67,333.80 L1044.00,339.20 L1079.33,296.00 L1114.67,328.40 L1150.00,350.00 L1150.00,350.00 L90.00,350.00 Z"/>
+<path class="ct-line" d="M90.00,339.20 L125.33,344.60 L160.67,344.60 L196.00,344.60 L231.33,317.60 L266.67,344.60 L302.00,344.60 L337.33,344.60 L372.67,344.60 L408.00,344.60 L443.33,344.60 L478.67,344.60 L514.00,344.60 L549.33,333.80 L584.67,285.20 L620.00,166.40 L655.33,112.40 L690.67,231.20 L726.00,274.40 L761.33,182.60 L796.67,339.20 L832.00,317.60 L867.33,328.40 L902.67,344.60 L938.00,344.60 L973.33,344.60 L1008.67,333.80 L1044.00,339.20 L1079.33,296.00 L1114.67,328.40 L1150.00,350.00"/>
+<circle cx="90.00" cy="339.20" r="5" class="ct-point"/>
+<circle cx="125.33" cy="344.60" r="5" class="ct-point"/>
 <circle cx="160.67" cy="344.60" r="5" class="ct-point"/>
 <circle cx="196.00" cy="344.60" r="5" class="ct-point"/>
-<circle cx="231.33" cy="344.60" r="5" class="ct-point"/>
-<circle cx="266.67" cy="317.60" r="5" class="ct-point"/>
+<circle cx="231.33" cy="317.60" r="5" class="ct-point"/>
+<circle cx="266.67" cy="344.60" r="5" class="ct-point"/>
 <circle cx="302.00" cy="344.60" r="5" class="ct-point"/>
 <circle cx="337.33" cy="344.60" r="5" class="ct-point"/>
 <circle cx="372.67" cy="344.60" r="5" class="ct-point"/>
@@ -65,59 +65,59 @@ svg { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; user-select: none; }
 <circle cx="443.33" cy="344.60" r="5" class="ct-point"/>
 <circle cx="478.67" cy="344.60" r="5" class="ct-point"/>
 <circle cx="514.00" cy="344.60" r="5" class="ct-point"/>
-<circle cx="549.33" cy="344.60" r="5" class="ct-point"/>
-<circle cx="584.67" cy="333.80" r="5" class="ct-point"/>
-<circle cx="620.00" cy="285.20" r="5" class="ct-point"/>
-<circle cx="655.33" cy="166.40" r="5" class="ct-point"/>
-<circle cx="690.67" cy="112.40" r="5" class="ct-point"/>
-<circle cx="726.00" cy="231.20" r="5" class="ct-point"/>
-<circle cx="761.33" cy="274.40" r="5" class="ct-point"/>
-<circle cx="796.67" cy="182.60" r="5" class="ct-point"/>
-<circle cx="832.00" cy="339.20" r="5" class="ct-point"/>
-<circle cx="867.33" cy="317.60" r="5" class="ct-point"/>
-<circle cx="902.67" cy="328.40" r="5" class="ct-point"/>
+<circle cx="549.33" cy="333.80" r="5" class="ct-point"/>
+<circle cx="584.67" cy="285.20" r="5" class="ct-point"/>
+<circle cx="620.00" cy="166.40" r="5" class="ct-point"/>
+<circle cx="655.33" cy="112.40" r="5" class="ct-point"/>
+<circle cx="690.67" cy="231.20" r="5" class="ct-point"/>
+<circle cx="726.00" cy="274.40" r="5" class="ct-point"/>
+<circle cx="761.33" cy="182.60" r="5" class="ct-point"/>
+<circle cx="796.67" cy="339.20" r="5" class="ct-point"/>
+<circle cx="832.00" cy="317.60" r="5" class="ct-point"/>
+<circle cx="867.33" cy="328.40" r="5" class="ct-point"/>
+<circle cx="902.67" cy="344.60" r="5" class="ct-point"/>
 <circle cx="938.00" cy="344.60" r="5" class="ct-point"/>
 <circle cx="973.33" cy="344.60" r="5" class="ct-point"/>
-<circle cx="1008.67" cy="344.60" r="5" class="ct-point"/>
-<circle cx="1044.00" cy="333.80" r="5" class="ct-point"/>
-<circle cx="1079.33" cy="339.20" r="5" class="ct-point"/>
-<circle cx="1114.67" cy="296.00" r="5" class="ct-point"/>
+<circle cx="1008.67" cy="333.80" r="5" class="ct-point"/>
+<circle cx="1044.00" cy="339.20" r="5" class="ct-point"/>
+<circle cx="1079.33" cy="296.00" r="5" class="ct-point"/>
+<circle cx="1114.67" cy="328.40" r="5" class="ct-point"/>
 <circle cx="1150.00" cy="350.00" r="5" class="ct-point"/>
 </g>
 <g class="ct-labels">
-<text x="90.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">26</text>
-<text x="125.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">27</text>
-<text x="160.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">28</text>
-<text x="196.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">29</text>
-<text x="231.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">30</text>
-<text x="266.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">31</text>
-<text x="302.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">1</text>
-<text x="337.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">2</text>
-<text x="372.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">3</text>
-<text x="408.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">4</text>
-<text x="443.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">5</text>
-<text x="478.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">6</text>
-<text x="514.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">7</text>
-<text x="549.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">8</text>
-<text x="584.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">9</text>
-<text x="620.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">10</text>
-<text x="655.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">11</text>
-<text x="690.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">12</text>
-<text x="726.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">13</text>
-<text x="761.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">14</text>
-<text x="796.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">15</text>
-<text x="832.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">16</text>
-<text x="867.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">17</text>
-<text x="902.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">18</text>
-<text x="938.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">19</text>
-<text x="973.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">20</text>
-<text x="1008.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">21</text>
-<text x="1044.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">22</text>
-<text x="1079.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">23</text>
-<text x="1114.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">24</text>
-<text x="1150.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">25</text>
+<text x="90.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">27</text>
+<text x="125.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">28</text>
+<text x="160.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">29</text>
+<text x="196.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">30</text>
+<text x="231.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">31</text>
+<text x="266.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">1</text>
+<text x="302.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">2</text>
+<text x="337.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">3</text>
+<text x="372.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">4</text>
+<text x="408.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">5</text>
+<text x="443.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">6</text>
+<text x="478.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">7</text>
+<text x="514.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">8</text>
+<text x="549.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">9</text>
+<text x="584.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">10</text>
+<text x="620.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">11</text>
+<text x="655.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">12</text>
+<text x="690.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">13</text>
+<text x="726.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">14</text>
+<text x="761.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">15</text>
+<text x="796.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">16</text>
+<text x="832.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">17</text>
+<text x="867.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">18</text>
+<text x="902.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">19</text>
+<text x="938.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">20</text>
+<text x="973.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">21</text>
+<text x="1008.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">22</text>
+<text x="1044.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">23</text>
+<text x="1079.33" y="370" text-anchor="middle" class="ct-label ct-horizontal">24</text>
+<text x="1114.67" y="370" text-anchor="middle" class="ct-label ct-horizontal">25</text>
+<text x="1150.00" y="370" text-anchor="middle" class="ct-label ct-horizontal">26</text>
 <text x="90.00" y="388" text-anchor="middle" class="ct-label ct-horizontal">Aug</text>
-<text x="302.00" y="388" text-anchor="middle" class="ct-label ct-horizontal">Sep</text>
+<text x="266.67" y="388" text-anchor="middle" class="ct-label ct-horizontal">Sep</text>
 <text x="80" y="355.00" text-anchor="end" class="ct-label ct-vertical">0</text>
 <text x="80" y="301.00" text-anchor="end" class="ct-label ct-vertical">10</text>
 <text x="80" y="247.00" text-anchor="end" class="ct-label ct-vertical">20</text>
